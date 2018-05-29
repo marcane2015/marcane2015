@@ -387,7 +387,7 @@ button.mfp-close, button.mfp-arrow, a.zoom {
   outline: none; }
 
 section.page-banner-section {
-  padding: 100px;
+  padding: 80px;
   /*
    * Set a counter and get the length of the image path.
    */
@@ -497,7 +497,7 @@ section.page-banner-section.portfolio-ban {
    */ }
   @media all and (-webkit-min-device-pixel-ratio: 1.5), all and (-o-min-device-pixel-ratio: 3 / 2), all and (min--moz-device-pixel-ratio: 1.5), all and (min-device-pixel-ratio: 1.5) {
     section.page-banner-section.portfolio-ban {
-      background: #111 url("../upload/banners/3@2x.jpg") center center no-repeat;
+      background: #111 url("../upload/banners/1@2x.jpg") center center no-repeat;
       background-size: cover; } }
   @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
     section.page-banner-section.portfolio-ban {
@@ -536,11 +536,11 @@ section.page-banner-section.blog-ban {
    */ }
   @media all and (-webkit-min-device-pixel-ratio: 1.5), all and (-o-min-device-pixel-ratio: 3 / 2), all and (min--moz-device-pixel-ratio: 1.5), all and (min-device-pixel-ratio: 1.5) {
     section.page-banner-section.blog-ban {
-      background: #111 url("../upload/banners/4@2x.jpg") center center no-repeat;
+      background: #111 url("../upload/banners/1@2x.jpg") center center no-repeat;
       background-size: cover; } }
   @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
     section.page-banner-section.blog-ban {
-      background: #111 url("../upload/banners/4@2x.jpg") center center no-repeat;
+      background: #111 url("../upload/banners/1@2x.jpg") center center no-repeat;
       background-size: cover; } }
 
 /*------------------------------------------------- */
