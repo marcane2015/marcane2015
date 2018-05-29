@@ -501,7 +501,7 @@ section.page-banner-section.portfolio-ban {
       background-size: cover; } }
   @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
     section.page-banner-section.portfolio-ban {
-      background: #111 url("../upload/banners/3@2x.jpg") center center no-repeat;
+      background: #111 url("../upload/banners/1@2x.jpg") center center no-repeat;
       background-size: cover; } }
 
 section.page-banner-section.blog-ban {
