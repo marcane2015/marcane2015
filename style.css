@@ -875,7 +875,7 @@ label {
 /* project modal */
 .modal-dialog {
 	max-width: 550px;
-	margin: 1.25rem auto;
+	margin: 1.75rem auto;
 	border-radius: 2px;
 }
 .modal-content {
